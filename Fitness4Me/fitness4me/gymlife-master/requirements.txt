@@ -1,0 +1,4 @@
+openai
+mediapipe
+opencv-python
+google-generativeai
