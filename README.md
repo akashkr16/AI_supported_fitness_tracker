@@ -40,3 +40,7 @@
 - OpenCV & MediaPipe for real-time posture tracking
 
 **Visualization**
+- Matplotlib
+
+**Design Tools**
+- Figma, Adobe Illustrator
