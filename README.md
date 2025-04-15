@@ -67,7 +67,7 @@
 
 ```bash
 # clone the repository
-git clone https://github.com//fitness4me.git
+git clone https://[github.com](https://github.com/Singhaurabh/AI_supported_fitness_tracker)/saurabhsingh/fitness4me.git
 cd fitness4me
 
 # Create a virtual Environment (optional but recommended)
